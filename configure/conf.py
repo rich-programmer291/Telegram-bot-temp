@@ -1,0 +1,5 @@
+bolt_api_key = "b7c52823-7968-43df-bb45-c2f41fb832f2"
+device_id = "BOLT14328238"
+telegram_chat_id = "@temperature_alert_ra"
+telegram_bot_id = "bot5954721314:AAFFh1hIR8e5xRRkgHX8Hd417k4RqkPPJEM"
+telegram_token = "5954721314:AAFFh1hIR8e5xRRkgHX8Hd417k4RqkPPJEM"
